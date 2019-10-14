@@ -1,10 +1,4 @@
-<html>
-  <head>
-    <title>
-      Gidi Marcus
-    </title>
-  </head>
-  <body>
+
       <style type="text/css">
       body {
         margin-top:0 !important;
@@ -40,5 +34,4 @@
           </h3>
       </div>
     </center>
-  </body>
-</html>
+
